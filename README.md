@@ -1,6 +1,6 @@
 # Compilation-principle-experiments
 These programs are experiments in the Compilation principle course of the Computer Department of North China University of Technology.  
-这是程序是北方工业大学计算机系编译原理实验。
+这些程序是北方工业大学计算机系编译原理实验。
 
 Time: 2021 Spring Semester
 
